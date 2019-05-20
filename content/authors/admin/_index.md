@@ -1,5 +1,6 @@
 ---
-
+authors:
+- admin
 ---
 
 Africa R is a consortium of passionate Africa R user groups and users innovating with R
