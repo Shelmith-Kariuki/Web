@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on AfricaR</title>
-    <link>/Shelmith-Kariuki/categories/</link>
+    <link>/Web/categories/</link>
     <description>Recent content in Categories on AfricaR</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
     
-	<atom:link href="/Shelmith-Kariuki/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/Web/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>R</title>
-      <link>/Shelmith-Kariuki/categories/r/</link>
+      <link>/Web/categories/r/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/Shelmith-Kariuki/categories/r/</guid>
+      <guid>/Web/categories/r/</guid>
       <description></description>
     </item>
     
